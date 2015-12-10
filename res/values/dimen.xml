@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="cardPadding">5dp</dimen>
+    <dimen name="padding">10dp</dimen>
+    <dimen name="gridWidth">50dp</dimen>
+
+</resources>

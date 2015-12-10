@@ -1,0 +1,23 @@
+<resources>
+
+    <string name="app_name">Hold\'em Odds Calculator</string>
+	<string name="button_calculate">Calculate the final result</string>
+	<string name="button_cancel">Cancel</string>
+	<string name="button_clear">Clear</string>
+	<string name="hand">Hand:</string>
+	<string name="info_cards_not_selected">The hole cards not selected!</string>
+	<string name="info_select_card">Select the card:</string>
+	<string name="player">Player</string>
+	<string name="result_2pairs">Two Pair</string>
+	<string name="result_flush">Flush</string>
+	<string name="result_four">Four of a Kind</string>
+	<string name="result_full">Full House</string>
+	<string name="result_nopair">High Card</string>
+	<string name="result_pair">Pair</string>
+	<string name="result_straight">Straight</string>
+	<string name="result_straightflush">Straight Flush</string>
+	<string name="result_three">Three of a Kind</string>
+	<string name="table">Table:</string>
+	<string name="calculating">Calculating&#8230;</string>
+
+</resources>

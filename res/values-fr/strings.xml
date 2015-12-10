@@ -1,0 +1,23 @@
+<resources>
+
+    <string name="app_name">Hold\'em Odds Calculator</string>
+	<string name="button_calculate">Evaluer les resultats</string>
+	<string name="button_cancel">Annuler</string>
+	<string name="button_clear">Supprimer</string>
+	<string name="hand">Main:</string>
+	<string name="info_cards_not_selected">Choisissez vos cartes!</string>
+	<string name="info_select_card">Sélectionnez la carte:</string>
+	<string name="player">Joueur</string>
+	<string name="result_2pairs">double paire</string>
+	<string name="result_flush">couleur</string>
+	<string name="result_four">carré</string>
+	<string name="result_full">full</string>
+	<string name="result_nopair">carte haute</string>
+	<string name="result_pair">paire</string>
+	<string name="result_straight">quinte</string>
+	<string name="result_straightflush">quinte flush</string>
+	<string name="result_three">brelan</string>
+	<string name="table">Table:</string>
+	<string name="calculating">Calcul&#8230;</string>
+
+</resources>

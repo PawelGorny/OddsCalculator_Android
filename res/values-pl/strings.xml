@@ -1,0 +1,23 @@
+<resources>
+
+    <string name="app_name">Hold\'em Odds Calculator</string>
+	<string name="button_calculate">Oszacuj ko\u0144cowy wynik</string>
+	<string name="button_cancel">Anuluj</string>
+	<string name="button_clear">Czy\u015B\u0107</string>
+	<string name="hand">R\u0119ka:</string>
+	<string name="info_cards_not_selected">Nie wybrane karty w r\u0119ce!</string>
+	<string name="info_select_card">Wybierz kart\u0119</string>
+	<string name="player">Gracz</string>
+	<string name="result_2pairs">Dwie pary</string>
+	<string name="result_flush">Kolor</string>
+	<string name="result_four">Kareta</string>
+	<string name="result_full">Full</string>
+	<string name="result_nopair">Wysoka karta</string>
+	<string name="result_pair">Para</string>
+	<string name="result_straight">Strit</string>
+	<string name="result_straightflush">Poker</string>
+	<string name="result_three">Trójka</string>
+	<string name="table">Stó\u0142:</string>
+	<string name="calculating">Wyliczanie&#8230;</string>
+
+</resources>
